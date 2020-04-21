@@ -18,6 +18,7 @@ article {
     margin-bottom: 10px;
 }
 
+
 body {
     background-image: url("../images/fondo.jpg");
     background-attachment: fixed;
@@ -31,7 +32,7 @@ body {
 
 
 .tamaño {
-    width: 95%;
+    width: 92%;
     height: 4.1vh;
     margin-top: 7px;
     border-radius: 5px;
@@ -42,9 +43,9 @@ body {
     font-weight: bold;
 }
 
-.heightselect{
-    height: 5vh !important;
-    width: 100% !important;
+#survey-form #dropdawn{
+    height: 5vh ;
+    width: 100% ;
 }
 
 .titleform{
@@ -52,7 +53,7 @@ body {
 }
 
 #title {
-    font-size: 30px !important;
+    font-size: 30px;
 }
 
 .tamañoradio{
@@ -67,12 +68,12 @@ body {
     margin-top: 25px;
 }
 
-.txt{
-    height: 20vh !important;
+#textarea{
+    height: 20vh;
 }
 
-.txtsmall{
-    font-size: 17px !important;
+#txtsmall{
+    font-size: 14px;
 }
 
 .btn { 
